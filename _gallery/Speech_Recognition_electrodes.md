@@ -8,7 +8,5 @@ license_text: Courtesy of Nasa
 categories:
   - archetypes
 tags:
-  - Speech Recognition
-  - HCI
-  -Sub Vocal
+  - Speech Recognition, HCI
 ---
